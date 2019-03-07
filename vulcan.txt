@@ -1,2 +1,2 @@
 new function
-gittest2 new
+gittest1 new
