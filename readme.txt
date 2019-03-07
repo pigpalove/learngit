@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git for qhw.
-Greating a new branch is quick & simple.
+Greating a new branch is quick AND simpe.
+
